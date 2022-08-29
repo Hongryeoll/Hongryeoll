@@ -1,53 +1,44 @@
-### Hi there 👋
+<div align="center">
 
-<hr>
-🏃 발자취
-
-### 🦁 멋쟁이 사자처럼 FE 2기 2022.03.28 ~ ing
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HongRyeol%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hi👋%20I'm%20Front-End%20Developer&descAlignY=51&descAlign=62)
 
 
-<br/>  
+<p align="center">
+    <Strong>☁️SNS List☁️</Strong><br><br>
+    <a href="https://velog.io/@hong462804" target="_blank"><img src="https://img.shields.io/badge/Velog-23E7E7E7?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <br>
+<br><br>
+<Strong>📧Email📧</Strong>
+<br>
+hong462804462804@gmail.com
+<br>
+
+</p>
+
+<br>
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+</p>
 
+<br>
+<p align="center" display="inline-block">
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
+    <br>
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+</p>
 
+<br>
+<br>
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
+![Dahyun's github stats](https://github-readme-stats.vercel.app/api?username=Hongryeoll&show_icons=true)
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hongryeoll&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
--->
